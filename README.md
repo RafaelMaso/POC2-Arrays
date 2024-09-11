@@ -1,2 +1,38 @@
-# POC2-Arrays
-Desenvolver uma prova de conceito que mostre como funcionam e para que servem os seguintes métodos de arrays em Javascript.
+<p align="center">
+  <img src="home-page.png" alt="POC2-Arrays">
+</p>
+
+<h1 align="center" style="font-weight: bold;">POC 2 - Métodos de arrays</h1>
+
+Desenvolvimento de uma POC (Prova de Conceito) que demonstra o funcionamento e a finalidade dos métodos de array ```sort```, ```filter```, ```map```, ```reduce``` e ```spread``` em JavaScript.
+
+<h2 id="tecnologias">💻 Tecnologias</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
+
+<h2 id="comecando">🚀 Começando</h2>
+
+1. **Inspecionar elemento**: Clique com o botão direito em qualquer canto da página; <br><br> <img src="inspecionar-elemento.png" alt="Inspecionando elemento"> <br><br>
+2. **Console**: Abra o console; <br><br> <img src="console-aberto.png" alt="Abrindo o console"> <br><br>
+3. **Sort**: Digite `console.log(pessoas);` para imprimir a reordenação do array; <br><br> <img src="sort.png" alt="Método Sort"><br><br>
+4. **Filter**: Digite `console.log(numerosPares);` para obter o resultado dos números pares; <br><br> <img src="filter.png" alt="Método Filter"><br><br>
+5. **Map**: Digite `console.log(map);` para imprimir as chaves e os valores; <br><br> <img src="map.png" alt="Método Map"><br><br>
+6. **Reduce**: Digite `console.log(map);` para somar todos os elementos do array; <br><br> <img src="reduce.png" alt="Método Map"><br><br>
+7. **Spread**: Digite `console.log(map);` para imprimir uma cópia do array; <br><br> <img src="spread.png" alt="Método Map"><br><br>
+
+<h2 id="colabs">🤝 Colaboradores</h2>
+
+- Rafael Trindade Dal Maso
+- Fernando Lacava Olival Rodrigues
+- Henrique Totti Ulbricht Lapa
+
+<h2 id="contribue">📫 Contribue</h2>
+
+1. **Clone o projeto**: `git clone https://github.com/RafaelMaso/POC2-Arrays.git`
+2. **Crie uma branch**: `git checkout -b feature/NAME`
+
+<h3>Documentações que podem ajudar</h3>
+
+[📝 Como criar uma solicitação de Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+
+[💾 Padrão de Commit](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
